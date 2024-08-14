@@ -179,24 +179,24 @@ html, body{
 
     #countDown {
         flex-direction: column;
-        padding: 20px;
+        padding: 10px;
     }
 
     input {
         width: 60px;
         height: 60px;
-        font-size: 20px;
+        font-size: 15px;
     }
 
     #more {
-        top: 95%;
+        top: 80%;
     }
 
     #imposters {
         width: 95vw;
         height: auto;
         padding: 20px;
-        font-size: 1.5rem;
+        font-size: 1.1rem;
     }
 
     .modi, .boy img {
@@ -213,11 +213,11 @@ html, body{
     }
 
     #imgs {
-        height: 20vh;
+        height: 15vh;
     }
 
     #imgs > img {
-        height: 20vh;
+        height: 15vh;
     }
 }
 
